@@ -6,7 +6,7 @@ be displayed to the user, and then a prompt to enter a number of quarters will a
 prompted to make a selection from the vending machine. If they have entered enough money and the snack is in-stock, the item will be dispensed, and the number in-stock will decrease by one. If the user entered more money than necessary to make the purchase, a message will be 
 displayed indicated that the appropriate amount of change has been returned.
 
-'''
+```
 Welcome to the vending machine!
 
 Item #    ItemName  Price     # in-stock
@@ -114,4 +114,4 @@ Closing info for Chips
 Transactions occurred at:
         23:44:21
         23:44:44
-'''
+```
